@@ -1,5 +1,5 @@
-a=1234567
-check= 1234665758
+a=12345
+check= 123466
 n=str(a)
 m=str(check)
 for i in n:
