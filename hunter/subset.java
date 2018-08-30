@@ -1,5 +1,6 @@
 import java.util.*;
-public class set1_10 {
+public class set1_10 
+{
     public static void main(String args[])
     {
         Scanner in=new Scanner(System.in);
@@ -11,7 +12,7 @@ public class set1_10 {
         }
         int[] arr2=new int[m];
         for(int i=0;i<m;i++){
-            arr2[i]=in.nextInt();
+            arr2[i]=in.nextint();
         }
         int flag1=0;
         for(int i=0;i<m;i++){
