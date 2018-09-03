@@ -7,7 +7,7 @@ class stack:
 		self.a.append(s)
 	def pop(self):
 		return self.a.pop()
- def hun_12():
+
 	s=input()
 	l=list(s)
 	stack_obj=stack()
