@@ -20,6 +20,5 @@ a[i]=a[j];
 a[j]=temp;
 }
 }
-}
 printf("%d",a[0]);
 }
